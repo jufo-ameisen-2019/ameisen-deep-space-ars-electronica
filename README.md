@@ -12,4 +12,4 @@ Version of the Ants Simulator, that we ran at the Deep Space 8K in the Ars Elect
 ## Related repositories:
 - [Jufo Ants](https://github.com/jufo-ameisen-2019/Jufo-Ameisen-2019)
 - [Ants Simulator](https://github.com/jufo-ameisen-2019/ants-simulator)
-- __Ameisen Deep Space Ars Electronica Demo__
+- __Ameisen Deep Space Ars Electronica__
